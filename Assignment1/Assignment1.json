@@ -1,0 +1,111 @@
+{
+  "car": [
+    {
+      "id": 1,
+      "modalName": "Ford Mustange",
+      "img": "http://imagebank.biz/wp-content/uploads/2014/02/90361.jpg",
+      "color": "Red",
+      "brand": "Ford",
+      "range": "Unlimited",
+      "carModal": [
+        {
+          "year": "2014",
+          "name": "Ford Mustange",
+          "aboutTheCar": "Ford Mustang",
+          "address": "3773, Windsor Street",
+          "companyName": "Ford Steale"
+        }
+      ],
+      "createdDate": "2022-09-29",
+      "updatedDate": "2022-09-30"
+    },
+    {
+      "trucks": {
+        "id": 2,
+        "modalName": "Ford Raptor",
+        "img": "https://getwallpapers.com/wallpaper/full/9/3/e/1431416-ford-f-150-raptor-wallpapers-1920x1080-smartphone.jpg",
+        "color": "Blue",
+        "brand": "Ford",
+        "range": "Unlimited"
+      },
+      "carModal": [
+        {
+          "id": 3,
+          "year": "2022",
+          "name": "Ford Raptor",
+          "aboutTheCar": "Ford Raptor Truck",
+          "address": "3773, Windsor Street",
+          "companyName": "Ford Steale"
+        }
+      ],
+      "createdDate": "2022-09-29",
+      "updatedDate": "2022-09-30"
+    },
+    {
+      "vans": [
+        {
+          "id": 4,
+          "modalName": "Ford Van",
+          "img": "https://thenewswheel.com/wp-content/uploads/2019/03/2020-Ford-Transit-Passenger-Van-1.jpg"
+        }
+      ],
+      "carModal": [
+        {
+          "id": 5,
+          "year": "2022",
+          "name": "Ford Van",
+          "aboutTheCar": "Ford Van",
+          "address": "3773, Windsor Street",
+          "companyName": "Ford Steale"
+        }
+      ],
+      "createdDate": "2022-09-29",
+      "updatedDate": "2022-09-30"
+    },
+    {
+      "evCars": {
+        "id": 6,
+        "modalName": "Ford Mustang Mach E Brochure",
+        "img": "https://spirotours.com/wp-content/uploads/2020/09/2022-Ford-Mustang-Mach-E-brochure-electric-car.jpg",
+        "color": "Grey",
+        "brand": "Ford",
+        "range": "Unlimited"
+      },
+      "carModal": [
+        {
+          "id": 7,
+          "year": "2022",
+          "name": "Ford Mustang Mach E Brochure",
+          "aboutTheCar": "Ford Mustang electric car",
+          "address": "3773, Windsor Street",
+          "companyName": "Ford Steale"
+        }
+      ],
+      "createdDate": "2022-09-29",
+      "updatedDate": "2022-09-30"
+    },
+    {
+      "evTrucks": [
+        {
+          "id": 8,
+          "modalName": "Ford F-150 Lightning",
+          "img": "https://pickuptrucktalk.com/wp-content/uploads/2020/09/ROUGE_SV1_6887-scaled.jpg",
+          "color": "Blue",
+          "brand": "Ford"
+        }
+      ],
+      "carModal": [
+        {
+          "id": 8,
+          "year": "2022",
+          "name": "Ford F-150 Lightning",
+          "aboutTheCar": "This car is a electric truck",
+          "address": "3773, Windsor Street",
+          "companyName": "Ford Steale"
+        }
+      ],
+      "createdDate": "2022-09-29",
+      "updatedDate": "2022-09-30"
+    }
+  ]
+}

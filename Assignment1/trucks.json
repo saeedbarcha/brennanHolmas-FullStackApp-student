@@ -1,0 +1,22 @@
+[
+  {
+    "trucks": {
+      "modalName": "Ford Raptor",
+      "img": "https://getwallpapers.com/wallpaper/full/9/3/e/1431416-ford-f-150-raptor-wallpapers-1920x1080-smartphone.jpg",
+      "color": "Blue",
+      "brand": "Ford",
+      "range": "Unlimited"
+    },
+    "carModal": [
+      {
+        "year": "2022",
+        "name": "Ford Raptor",
+        "aboutTheTruck": "Ford Raptor Truck",
+        "address": "3773, Windsor Street",
+        "companyName": "Ford Steale"
+      }
+    ],
+    "createdDate": "2022-09-29",
+    "updatedDate": "2022-09-30"
+  }
+]

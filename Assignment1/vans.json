@@ -1,0 +1,21 @@
+[
+  {
+    "vans": [
+      {
+        "modalName": "Ford Van",
+        "img": "https://thenewswheel.com/wp-content/uploads/2019/03/2020-Ford-Transit-Passenger-Van-1.jpg"
+      }
+    ],
+    "carModal": [
+      {
+        "year": "2022",
+        "name": "Ford Van",
+        "aboutTheCar": "Ford Van",
+        "address": "3773, Windsor Street",
+        "companyName": "Ford Steale"
+      }
+    ],
+    "createdDate": "2022-09-29",
+    "updatedDate": "2022-09-30"
+  }
+]

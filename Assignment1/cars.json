@@ -1,0 +1,22 @@
+[
+  {
+    "cars": {
+      "modalName": "Ford Mustange",
+      "img": "http://imagebank.biz/wp-content/uploads/2014/02/90361.jpg",
+      "color": "Red",
+      "brand": "Ford",
+      "range": "Unlimited"
+    },
+    "carModal": [
+      {
+        "year": "2014",
+        "name": "Ford Mustange",
+        "aboutTheCar": "Ford Mustang",
+        "address": "3773, Windsor Street",
+        "companyName": "Ford Steale"
+      }
+    ],
+    "createdDate": "2022-09-29",
+    "updatedDate": "2022-09-30"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "evTrucks": [
+      {
+        "modalName": "Ford F-150 Lightning",
+        "img": "https://pickuptrucktalk.com/wp-content/uploads/2020/09/ROUGE_SV1_6887-scaled.jpg",
+        "color": "Blue",
+        "brand": "Ford"
+      }
+    ],
+    "carModal": [
+      {
+        "year": "2022",
+        "name": "Ford F-150 Lightning",
+        "aboutTheCar": "This car is a electric truck",
+        "address": "3773, Windsor Street",
+        "companyName": "Ford Steale"
+      }
+    ],
+    "createdDate": "2022-09-29",
+    "updatedDate": "2022-09-30"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "evCars": {
+      "modalName": "Ford Mustang Mach E Brochure",
+      "img": "https://spirotours.com/wp-content/uploads/2020/09/2022-Ford-Mustang-Mach-E-brochure-electric-car.jpg",
+      "color": "Grey",
+      "brand": "Ford",
+      "range": "Unlimited"
+    },
+    "carModal": [
+      {
+        "year": "2022",
+        "name": "Ford Mustang Mach E Brochure",
+        "aboutTheCar": "Ford Mustang electric car",
+        "address": "3773, Windsor Street",
+        "companyName": "Ford Steale"
+      }
+    ],
+    "createdDate": "2022-09-29",
+    "updatedDate": "2022-09-30"
+  }
+]
